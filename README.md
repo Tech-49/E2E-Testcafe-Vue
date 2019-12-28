@@ -1,30 +1,16 @@
-# vue-app
+# Project setup instructions:
 
-## Project setup
+## Install dependencies
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### To start the development server
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### To run the tests
 ```
 npm run build
 ```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
-"# E2E-Testcafe-Vue" 
