@@ -12,5 +12,5 @@ npm run serve
 
 ### To run the tests
 ```
-npm run build
+npm run test
 ```
