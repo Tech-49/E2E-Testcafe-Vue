@@ -6,7 +6,7 @@
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint",
-    "test": "testcafe chrome test/cases/aboutUs.test.js -S -s screenshots"
+    "test": "testcafe chrome test/cases/*.test.js -S -s screenshots --speed 0.3"
   },
   "dependencies": {
     "bootstrap": "^4.3.1",
